@@ -18,7 +18,7 @@ public class Controller {
                 "   1 - Select any index in the number and remove the character at that number \n" +
                 "       for example lets say i had 10110 and i selected index 1, so i can remove 0 placed at 1st index \n" +
                 "       after removal i get 1110 as my number \n" +
-                "   2 - We can perform the above operation max n/2 times because i get bored post that, where n is the length of binary number \n" +
+                "   2 - We can perform the above operation max n/2 times because i get annoyed post that, where n is the length of binary number \n" +
                 "       floor in case length is odd \n" +
                 "Pleeeezzzzz help a fellow dev convert this number given below to palindrome using above operations and submit at /api/quizz/answer \n" +
                 "make a post request and add a json body {answer:\" your answer \"} and please dont bomb the server\n" +
